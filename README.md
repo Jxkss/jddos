@@ -3,3 +3,6 @@
 I uploaded the Compiled and Uncompiled version.
 
 If you want to compile it yourself you can use `pyinstaller --onefile main.py`
+
+# Usage
+After launch, Enter the target IP, the Disguise, the port and the number of packets being sent.
